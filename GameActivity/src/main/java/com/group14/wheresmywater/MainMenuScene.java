@@ -155,10 +155,11 @@ public class MainMenuScene extends BaseScene implements
 		switch (id) {
 		case MENU_PLAY:
 			if (isPlayFirst()) {
-				createFileData();
 				SceneManager.getInstance().loadLevel01Scene(_engine);
+				createFileData();
 
 			} else {
+
 				SceneManager.getInstance().loadSelectLevelScene(_engine);
 			}
 			break;
@@ -183,6 +184,7 @@ public class MainMenuScene extends BaseScene implements
 			File root = Environment.getExternalStorageDirectory();
 			FileWriter filewriter = new FileWriter(new File(root, "wmw.txt"));
 			BufferedWriter writer = new BufferedWriter(filewriter);
+
 			for (int i = 0; i < s.length; i++) {
 				writer.write(s[i] + '\n');
 			}
@@ -206,7 +208,6 @@ public class MainMenuScene extends BaseScene implements
 			FileReader filereader = new FileReader(new File(root, "wmw.txt"));
 			BufferedReader reader = new BufferedReader(filereader);
 			str = reader.readLine();
-			filereader.close();
 		} catch (FileNotFoundException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();

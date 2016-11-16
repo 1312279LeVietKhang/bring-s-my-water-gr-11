@@ -297,7 +297,7 @@ public class Level01 extends BaseScene implements IOnSceneTouchListener,
 		// TODO Auto-generated method stub
 		listSoil = new ArrayList<SoilArea>();
 		final float widthSoil = 800.0f;
-		final float heightSoil = 700.0f;
+		final float heightSoil = 500.0f;
 		final int rows = 10;
 		final int cols = 10;
 		pos = new Point(0, 150);

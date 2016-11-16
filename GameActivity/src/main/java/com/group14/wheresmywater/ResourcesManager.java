@@ -59,7 +59,9 @@ public class ResourcesManager {
 	/** The level03 resource. */
 	public Level03Resource _level03Resource;
 
+	/** The level04 resource. */
 	public Level04Resource _level04Resource;
+
 
 	/** The select level resource. */
 	public SelectLevelSceneResource _selectLevelResource;
@@ -164,7 +166,6 @@ public class ResourcesManager {
 		_level03Resource = new Level03Resource();
 		_level03Resource.load();
 	}
-
 	/**
 	 * Unload level03 screen.
 	 */
@@ -174,14 +175,8 @@ public class ResourcesManager {
 			_level03Resource = null;
 		}
 	}
-
-	public final void loadLevel04Screen() {
-		_level04Resource = new Level04Resource();
-		_level04Resource.load();
-	}
-
-
 	/**
+	 * Unload level04 screen.
 	 */
 	public final void unloadLevel04Screen() {
 		if (_level04Resource != null) {
@@ -189,6 +184,14 @@ public class ResourcesManager {
 			_level04Resource = null;
 		}
 	}
+	public final void loadLevel04Screen() {
+		_level04Resource = new Level04Resource();
+		_level04Resource.load();
+	}
+
+
+
+
 
 	/**
 	 * Load score screen.

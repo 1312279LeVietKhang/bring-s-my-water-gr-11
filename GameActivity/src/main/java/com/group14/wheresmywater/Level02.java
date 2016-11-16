@@ -356,7 +356,7 @@ public class Level02 extends BaseScene implements IOnSceneTouchListener,
 	public void disposeScene() {
 		// TODO Auto-generated method stub
 		stopMusic();
-		ResourcesManager.getInstance().unloadLevel01Screen();
+		ResourcesManager.getInstance().unloadLevel02Screen();
 	}
 
 	/**

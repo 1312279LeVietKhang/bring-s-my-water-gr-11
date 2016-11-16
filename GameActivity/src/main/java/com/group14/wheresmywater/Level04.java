@@ -35,7 +35,7 @@ public class Level04 extends BaseScene implements IOnSceneTouchListener,
 		IOnMenuItemClickListener {
 
 	/** The resource. */
-	private Level01Resource _resource;
+	private Level04Resource _resource;
 
 	/** The sprite rock. */
 	private Sprite _spriteRock;
@@ -115,7 +115,7 @@ public class Level04 extends BaseScene implements IOnSceneTouchListener,
 	@Override
 	public void createScene() {
 		// TODO Auto-generated method stub
-		_resource = ResourcesManager.getInstance()._level01Resource;
+		_resource = ResourcesManager.getInstance()._level04Resource;
 		// _sceneManager.setScene(new SceneLoadReplay(_sceneManager, this));
 
 		// get time start Level
@@ -364,7 +364,7 @@ public class Level04 extends BaseScene implements IOnSceneTouchListener,
 				0f,
 				0f);
 		BodyProvider.generateBodies(
-				"body/body_level01.xml",
+				"body/body_level04.xml",
 				mPhysicsWorld,
 				fixtureDef);
 	}
@@ -395,8 +395,8 @@ public class Level04 extends BaseScene implements IOnSceneTouchListener,
 	public final void disposeScene() {
 		// TODO Auto-generated method stub
 		stopMusic();
-		ResourcesManager.getInstance().unloadLevel01Screen();
-		System.out.println("Level01 Dispose");
+		ResourcesManager.getInstance().unloadLevel04Screen();
+		System.out.println("Level04 Dispose");
 	}
 
 	/**

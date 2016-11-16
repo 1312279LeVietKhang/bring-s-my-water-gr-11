@@ -4,9 +4,11 @@
 package com.group14.wheresmywater;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -22,6 +24,7 @@ import org.andengine.entity.text.TextOptions;
 import org.andengine.util.HorizontalAlign;
 
 import android.os.Environment;
+import android.util.Log;
 
 import com.group14.wheresmywater.SceneManager.SceneType;
 
@@ -84,6 +87,7 @@ public class SelectLevelScene extends BaseScene implements
 		boolean played = false;
 		
 		for (int i = 0; i < Global.nScene; i++) {
+			Log.i("Flag 3 check string",s[i]);
 			String[] info = s[i].split(",");
 			indexs[i] = getIndexMenuItem(info);
 			if ((indexs[i] == 4) && ((i == 0) || (played == true))) {
@@ -105,7 +109,7 @@ public class SelectLevelScene extends BaseScene implements
 		childScene.setBackgroundEnabled(false);
 		childScene.setOnMenuItemClickListener(this);
 
-		for (int i = 0; i < Global.nScene; i++) {
+		for (int i = 0; i < 3; i++) {
 			int r = i / col;
 			int c = i % col;
 			
@@ -147,13 +151,29 @@ public class SelectLevelScene extends BaseScene implements
 	private String[] getInfoGame() {
 		// TODO Auto-generated method stub
 		String[] s = new String[Global.nScene];
-
+		Log.i("Flag 1","getInfo");
 		try {
 			File root = Environment.getExternalStorageDirectory();
 			FileReader filereader = new FileReader(new File(root, "wmw.txt"));
 			BufferedReader reader = new BufferedReader(filereader);
+			int lvlCount=0;
 			for (int i = 0; i < Global.nScene; i++) {
 				s[i] = reader.readLine();
+				if(s[i].length()>4) {
+					Log.i("Flag 2 check string",s[i]+"anti null");
+					lvlCount=lvlCount+1;
+				}
+				Log.i("Flag 2 check lvlCount",String.valueOf(lvlCount));
+			}
+
+			if(lvlCount < Global.nScene)
+			{
+				updateLevels(lvlCount);
+				for(int i=0;i<Global.nScene-lvlCount;i++)
+				{
+					s[lvlCount+i]=String.valueOf(i+1+lvlCount) + "," + "0" + "," + "0";
+					Log.i("Flag 2 add to info",s[lvlCount+i]);
+				}
 			}
 			reader.close();
 		} catch (FileNotFoundException e1) {
@@ -262,5 +282,25 @@ public class SelectLevelScene extends BaseScene implements
 	@Override
 	public void load() {
 		ResourcesManager.getInstance();
+	}
+
+	private void updateLevels(int lvlCount)
+	{
+		try {
+			File root = Environment.getExternalStorageDirectory();
+			FileWriter filewriter = new FileWriter(new File(root, "wmw.txt"),true);
+			BufferedWriter writer = new BufferedWriter(filewriter);
+			for(int i=0;i<Global.nScene-lvlCount;i++)
+			{
+				writer.newLine();
+				String s = String.valueOf(i+1+lvlCount) + "," + "0" + "," + "0";
+				writer.write(s);
+			}
+			writer.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 }
