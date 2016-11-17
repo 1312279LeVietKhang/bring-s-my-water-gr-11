@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\New folder\GameActivity\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\New folder\GameActivity\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\QLDA\bring-s-my-water-gr-11\GameActivity\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\QLDA\bring-s-my-water-gr-11\GameActivity\src\debug\shaders"/></dataSet></merger>

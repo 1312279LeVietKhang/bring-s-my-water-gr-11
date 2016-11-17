@@ -5,50 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="28771640398897"
-    token="-4239991634631771174"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="35612762078530"
+    token="-151705539345942826"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1577" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="984" />
     <task
         name="verifier"
-        duration="0" />
+        duration="420" />
 
     <artifact
-        location="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-        type="DEX" />
+        location="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="27912723094247"
+        timestamp="35612762078530"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\New folder\GameActivity\build\outputs\apk\GameActivity-debug.apk"
+            location="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="28704680558319"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="D:\New folder\GameActivity\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="D:\New folder\GameActivity\build\intermediates\builds\debug\28704680558319\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="28771640398897"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

@@ -1,7 +1,7 @@
-#Thu Nov 17 15:25:58 ICT 2016
-base.0=D\:\\New folder\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3054da05c1d73d9874c3c709531dcdf43b1bc07f
+#Thu Nov 17 17:33:52 ICT 2016
+base.0=D\:\\QLDA\\bring-s-my-water-gr-11\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2733c32b27254d5a938fb5055a35d69e0f2ba4f2
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=D\:\\New folder\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_69d39095335240152cf59468e1afb9ac58a16a51\\classes.dex
-base.1=D\:\\New folder\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_69d39095335240152cf59468e1afb9ac58a16a51
-file.0=D\:\\New folder\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3054da05c1d73d9874c3c709531dcdf43b1bc07f\\classes.dex
+file.1=D\:\\QLDA\\bring-s-my-water-gr-11\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b81a246dad2f0aa417ee1c64475a123f9fe3624\\classes.dex
+base.1=D\:\\QLDA\\bring-s-my-water-gr-11\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b81a246dad2f0aa417ee1c64475a123f9fe3624
+file.0=D\:\\QLDA\\bring-s-my-water-gr-11\\GameActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2733c32b27254d5a938fb5055a35d69e0f2ba4f2\\classes.dex

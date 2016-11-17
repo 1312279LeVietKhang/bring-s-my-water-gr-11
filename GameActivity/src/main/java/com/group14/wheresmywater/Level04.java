@@ -346,7 +346,7 @@ public class Level04 extends BaseScene implements IOnSceneTouchListener,
 	 */
 	private void createRock() {
 		// TODO Auto-generated method stub
-		_spriteRock = new Sprite(0, 480, 800, 800, _resource.rock_Region, _vbom);
+		_spriteRock = new Sprite(0, 0, 799, 1200, _resource.rock_Region, _vbom);
 		_spriteRock.setZIndex(3);
 		this.attachChild(_spriteRock);
 
