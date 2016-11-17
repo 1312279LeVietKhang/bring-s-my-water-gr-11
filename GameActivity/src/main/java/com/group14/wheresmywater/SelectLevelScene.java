@@ -109,7 +109,7 @@ public class SelectLevelScene extends BaseScene implements
 		childScene.setBackgroundEnabled(false);
 		childScene.setOnMenuItemClickListener(this);
 
-		for (int i = 0; i < 3; i++) {
+		for (int i = 0; i < Global.nScene; i++) {
 			int r = i / col;
 			int c = i % col;
 			
@@ -151,7 +151,6 @@ public class SelectLevelScene extends BaseScene implements
 	private String[] getInfoGame() {
 		// TODO Auto-generated method stub
 		String[] s = new String[Global.nScene];
-		Log.i("Flag 1","getInfo");
 		try {
 			File root = Environment.getExternalStorageDirectory();
 			FileReader filereader = new FileReader(new File(root, "wmw.txt"));
@@ -160,10 +159,8 @@ public class SelectLevelScene extends BaseScene implements
 			for (int i = 0; i < Global.nScene; i++) {
 				s[i] = reader.readLine();
 				if(s[i].length()>4) {
-					Log.i("Flag 2 check string",s[i]+"anti null");
 					lvlCount=lvlCount+1;
 				}
-				Log.i("Flag 2 check lvlCount",String.valueOf(lvlCount));
 			}
 
 			if(lvlCount < Global.nScene)
@@ -172,7 +169,6 @@ public class SelectLevelScene extends BaseScene implements
 				for(int i=0;i<Global.nScene-lvlCount;i++)
 				{
 					s[lvlCount+i]=String.valueOf(i+1+lvlCount) + "," + "0" + "," + "0";
-					Log.i("Flag 2 add to info",s[lvlCount+i]);
 				}
 			}
 			reader.close();
