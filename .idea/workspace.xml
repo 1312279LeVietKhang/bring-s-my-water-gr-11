@@ -64,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="body_level02.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="body_level02.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level02.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="230">
               <caret line="321" column="23" selection-start-line="321" selection-start-column="23" selection-end-line="321" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="body_level03.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level03.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -1618,6 +1628,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level02.xml" />
+        <option value="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level03.xml" />
       </list>
     </option>
   </component>
@@ -2052,7 +2063,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1351" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="1351" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2144,8 +2155,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level02.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="230">
           <caret line="321" column="23" selection-start-line="321" selection-start-column="23" selection-end-line="321" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level03.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding />
         </state>
       </provider>
