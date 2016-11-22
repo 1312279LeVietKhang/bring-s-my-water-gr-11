@@ -5,29 +5,29 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="119234948447083"
+    timestamp="132475317284068"
     token="-151705539345942826"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="4020" />
+        duration="2446" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2430" />
+        duration="1683" />
     <task
         name="verifier"
-        duration="370" />
+        duration="476" />
 
     <artifact
         location="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="119234948447083"
+        timestamp="132475317284068"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
