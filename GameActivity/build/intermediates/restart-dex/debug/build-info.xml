@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
+    abi="x86_64,x86"
+    api-level="24"
     density="560dpi"
     format="8"
-    plugin-version="2.2.1"
-    timestamp="35612762078530"
+    plugin-version="2.2.2"
+    timestamp="78366357579900"
     token="-151705539345942826"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1577" />
+        duration="9973" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="984" />
+        duration="3122" />
     <task
         name="verifier"
-        duration="420" />
+        duration="1651" />
 
     <artifact
         location="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="35612762078530"
+        timestamp="78366357579900"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
