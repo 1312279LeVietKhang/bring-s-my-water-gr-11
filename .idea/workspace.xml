@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b983df6a-7aeb-43a0-890f-db9b41cf2ec1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level24.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_16.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -14,57 +10,23 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_GameActivity_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_GameActivity_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_GameActivity_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_GameActivity_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnback.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnback.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnhelp.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnhelp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnlevel.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnlevel.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnnextlevel.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnnextlevel.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnpause.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnpause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnplay.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnreplay.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnreplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnrestart.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/btnrestart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/drop.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/drop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water0.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water1.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water2.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water3.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water4.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water5.png" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/gfx/ducky_duck_water5.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/instant-run-support/debug/instant-run.zip" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/instant-run-support/debug/instant-run.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/GameActivity.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/GameActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level01$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level01$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level01$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level01$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level02$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level02$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level02$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level02$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level03$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level03$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level03$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level03$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level04$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level04$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level04$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/group14/wheresmywater/Level04$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/GameActivity.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/GameActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level01$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level01$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level01$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level01$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level02$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level02$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level02$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level02$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level03$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level03$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level03$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level03$ThreadWinGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level04$ThreadGameOver.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level04$ThreadGameOver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level04$ThreadWinGame.class" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/group14/wheresmywater/Level04$ThreadWinGame.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/outputs/apk/GameActivity-debug.apk" afterPath="$PROJECT_DIR$/GameActivity/build/outputs/apk/GameActivity-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_16.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_16.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/GameActivity.iml" afterPath="$PROJECT_DIR$/GameActivity/GameActivity.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/body/body_level02.xml" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/assets/debug/body/body_level02.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/GameActivity/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml" afterPath="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="bring-s-my-water-gr-11.iws" />
@@ -99,24 +61,48 @@
     <favorites_list name="bring-s-my-water-gr-11" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="body_level22.xml" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="body_level22.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+            <state relative-caret-position="448">
+              <caret line="326" column="19" selection-start-line="326" selection-start-column="19" selection-end-line="326" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="body_level01.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level01.xml">
+      <file leaf-file-name="body_level02.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level02.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="822">
+              <caret line="366" column="19" selection-start-line="366" selection-start-column="19" selection-end-line="366" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#1460#0" expanded="false" />
+                <element signature="e#1466#2749#0" expanded="false" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="body_level03.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level03.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="263" column="23" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+              <folding>
+                <element signature="e#14#866#0" expanded="false" />
+                <element signature="e#872#1670#0" expanded="false" />
+                <element signature="e#1676#2965#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rock_level01.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/gfx/rock_level01.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -153,7 +139,7 @@
       <file leaf-file-name="body_level04.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level04.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -1692,6 +1678,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level02.xml" />
         <option value="$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml" />
       </list>
     </option>
@@ -1727,9 +1714,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1800,7 +1787,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2125,39 +2112,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1284" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2176,6 +2163,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4947">
+          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level01.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#2244#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level21.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2202,16 +2207,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level04.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml">
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level21.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level23.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level04.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2221,15 +2242,56 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level24.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/gfx/rock_level01.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level03.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="263" column="23" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+          <folding>
+            <element signature="e#14#866#0" expanded="false" />
+            <element signature="e#872#1670#0" expanded="false" />
+            <element signature="e#1676#2965#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level01.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding>
+            <element signature="e#14#2244#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level02.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="366" column="19" selection-start-line="366" selection-start-column="19" selection-end-line="366" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#1460#0" expanded="false" />
+            <element signature="e#1466#2749#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameActivity/src/main/assets/body/body_level22.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="326" column="19" selection-start-line="326" selection-start-column="19" selection-end-line="326" selection-end-column="19" />
           <folding />
         </state>
       </provider>
