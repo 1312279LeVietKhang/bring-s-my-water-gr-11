@@ -3,102 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="D:\QLDA\bring-s-my-water-gr-11\GameActivity\libs\andengine-gles2.jar"
+        jar="G:\bring-s-my-water-gr-11\GameActivity\libs\gpcj-2.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="dc7a1c5e1c119ca505219b0ec82ebaacba6d9e10">
-        <dex dex="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\andengine-gles2_c1657cc5e3ae35519f4725129159de33ecf0cd0e\classes.dex" />
+        sha1="78e50526c19588f570e64412ea429a3d1d9f940c">
+        <dex dex="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\gpcj-2.2.0_4d628f7db17c292882c3f2a1032eeef3cca7237f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\KhangLv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d9c42df73cb590dd9c1714add0c79f9041b0767">
+        <dex dex="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9d51c8b246a8570921823afe2381cf682fe7d24c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nguye_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_ceb70ad2b13e99cf83d7967268bbacc3d159303a\classes.dex" />
+        <dex dex="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2494570fa9bc9bc8da720520e2c4faa77b8515dc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\New folder\GameActivity\libs\andenginephysicsbox2dextension-gles2.jar"
+        jar="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8b72a76e16287d7ced5b922253a0eb12dafbfd3c">
-        <dex dex="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\andenginephysicsbox2dextension-gles2_ea401d5b63a4458bfd1e1630c16fd0948abc59ca\classes.dex" />
+        sha1="2c1a477919d51d538210ec95791d7f6657b3aa3b">
+        <dex dex="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1f2628adbd89c843d052d0e9d6c08767c6edfb2f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\New folder\GameActivity\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b598e214046a11d86df79bf343863b35f4c1b890">
-        <dex dex="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3054da05c1d73d9874c3c709531dcdf43b1bc07f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\New folder\GameActivity\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="705d36b6623cdb5a7e4bb5153ac8be21ce257d0e">
-        <dex dex="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_69d39095335240152cf59468e1afb9ac58a16a51\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="feebbab2a7befc848b3bf4aa32b1599a7cb616b3">
-        <dex dex="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2733c32b27254d5a938fb5055a35d69e0f2ba4f2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\New folder\GameActivity\libs\gpcj-2.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="78e50526c19588f570e64412ea429a3d1d9f940c">
-        <dex dex="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\gpcj-2.2.0_8410aba0e03e51e0b02ce1e67ee42839f0711b71\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d6d996ee27f8a9e56eaa364847638d9a2107cd6b">
-        <dex dex="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b81a246dad2f0aa417ee1c64475a123f9fe3624\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\New folder\GameActivity\libs\andengine-gles2.jar"
+        jar="G:\bring-s-my-water-gr-11\GameActivity\libs\andengine-gles2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="dc7a1c5e1c119ca505219b0ec82ebaacba6d9e10">
-        <dex dex="D:\New folder\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\andengine-gles2_2c0c664cb96079a7de1148f8863d9ed79037718f\classes.dex" />
+        <dex dex="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\andengine-gles2_a0972bf718d209af34eed04ec665bc9796fd09cb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\QLDA\bring-s-my-water-gr-11\GameActivity\libs\gpcj-2.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="78e50526c19588f570e64412ea429a3d1d9f940c">
-        <dex dex="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\gpcj-2.2.0_df5ae5b0e2db4191f9a6c5506dd6db0833c6b518\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\QLDA\bring-s-my-water-gr-11\GameActivity\libs\andenginephysicsbox2dextension-gles2.jar"
+        jar="G:\bring-s-my-water-gr-11\GameActivity\libs\andenginephysicsbox2dextension-gles2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="8b72a76e16287d7ced5b922253a0eb12dafbfd3c">
-        <dex dex="D:\QLDA\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\andenginephysicsbox2dextension-gles2_722b4a5d36744e87ee2e9e2e8fff0645b745259e\classes.dex" />
+        <dex dex="G:\bring-s-my-water-gr-11\GameActivity\build\intermediates\transforms\dex\debug\folders\1000\2\andenginephysicsbox2dextension-gles2_c01422d48c2591b4023ad23ddb0e1705e8b9c74f\classes.dex" />
     </item>
 
 </items>
