@@ -5,29 +5,49 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
+<<<<<<< HEAD
     timestamp="16112393059606"
     token="9145952830438759024"
+=======
+    timestamp="132475317284068"
+    token="-151705539345942826"
+>>>>>>> 25c9cd8196d83ea83fd761b9c4d74beabf275cd9
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
+<<<<<<< HEAD
         duration="8468" />
+=======
+        duration="2446" />
+>>>>>>> 25c9cd8196d83ea83fd761b9c4d74beabf275cd9
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="1333" />
     <task
         name="verifier"
         duration="435" />
+=======
+        duration="1683" />
+    <task
+        name="verifier"
+        duration="476" />
+>>>>>>> 25c9cd8196d83ea83fd761b9c4d74beabf275cd9
 
     <artifact
         location="G:\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"
         type="MAIN" />
 
     <build
+<<<<<<< HEAD
         timestamp="16112393059606"
+=======
+        timestamp="132475317284068"
+>>>>>>> 25c9cd8196d83ea83fd761b9c4d74beabf275cd9
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="G:\bring-s-my-water-gr-11\GameActivity\build\outputs\apk\GameActivity-debug.apk"

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #Tue Nov 22 22:04:42 ICT 2016
+=======
+#Tue Nov 22 23:11:45 ICT 2016
+>>>>>>> 25c9cd8196d83ea83fd761b9c4d74beabf275cd9
