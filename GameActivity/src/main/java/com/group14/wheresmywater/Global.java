@@ -35,7 +35,7 @@ public class Global {
 	/**
 	 * The number of Scene
 	 */
-	public static final int nScene = 4;
+	public static final int nScene = 15;
 
 	/**
 	 * @author Thanh Quang

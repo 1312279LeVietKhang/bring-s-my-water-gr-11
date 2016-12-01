@@ -177,7 +177,7 @@ public class Level01 extends BaseScene implements IOnSceneTouchListener,
 	}
 
 	/**
-	 * Creates the ducky empty.
+	 * Creates the ducky empty.touch
 	 */
 	private void createDuckyEmpty() {
 		// TODO Auto-generated method stub

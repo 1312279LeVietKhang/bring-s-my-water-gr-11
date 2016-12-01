@@ -206,6 +206,17 @@ public class SceneManager {
 		getInstance().listGameScene.add(new Level02(1));
 		getInstance().listGameScene.add(new Level03(1));
 		getInstance().listGameScene.add(new Level04(1));
+		getInstance().listGameScene.add(new Level05(1));
+		getInstance().listGameScene.add(new Level06(1));
+		getInstance().listGameScene.add(new Level07(1));
+		getInstance().listGameScene.add(new Level08(1));
+		getInstance().listGameScene.add(new Level09(1));
+		getInstance().listGameScene.add(new Level10(1));
+		getInstance().listGameScene.add(new Level11(1));
+		getInstance().listGameScene.add(new Level12(1));
+		getInstance().listGameScene.add(new Level13(1));
+		getInstance().listGameScene.add(new Level14(1));
+		getInstance().listGameScene.add(new Level15(1));
 	}
 
 	/**

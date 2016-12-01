@@ -81,9 +81,9 @@ public class SelectLevelScene extends BaseScene implements
 		childScene = new MenuScene(this._camera);
 		childScene.setPosition(0, 0);
 
-		int col = 3;
+		int col = 4;
 		indexs = new int[Global.nScene];
-		int size = 200;
+		int size = 150;
 		boolean played = false;
 		
 		for (int i = 0; i < Global.nScene; i++) {
@@ -114,12 +114,22 @@ public class SelectLevelScene extends BaseScene implements
 			int c = i % col;
 			
 			IMenuItem item = this.imenuList.get(i);
-			item.setPosition(50 + (size + 50) * c, 150 + (size + 30) * r);
+			item.setPosition(30 + (size + 50) * c, 150 + (size + 30) * r);
 			
 			if (i < indexs.length && indexs[i] != 4) {
-				Text mText = new Text(size / 2 - 15, 45, _resource.mFont,
-						s[i].split(",")[0], 1000, new TextOptions(
-								HorizontalAlign.LEFT), _vbom);
+				Text mText;
+				if(s[i].split(",")[0].length()>1)
+				{
+					 mText= new Text(size / 2-30, 30, _resource.mFont,
+							s[i].split(",")[0], 1000, new TextOptions(
+							HorizontalAlign.LEFT), _vbom);
+
+				}
+				else {
+					mText = new Text(size / 2 - 15, 30, _resource.mFont,
+							s[i].split(",")[0], 1000, new TextOptions(
+							HorizontalAlign.LEFT), _vbom);
+				}
 				item.attachChild(mText);
 			}
 		}
@@ -157,13 +167,34 @@ public class SelectLevelScene extends BaseScene implements
 			FileReader filereader = new FileReader(new File(root, "wmw.txt"));
 			BufferedReader reader = new BufferedReader(filereader);
 			int lvlCount=0;
+			while(lvlCount <= Global.nScene)
+			{
+				s[lvlCount]=reader.readLine();
+				if(s[lvlCount]!= null && s[lvlCount].length()>4)
+				{
+					Log.i("Print String",s[lvlCount]);
+					lvlCount++;
+					if(lvlCount==Global.nScene)
+					{
+						break;
+					}
+				}
+				else
+				{
+					if(s[lvlCount]==null || s[lvlCount].length() <=4||s[lvlCount]=="\n")
+					{
+						break;
+					}
+				}
+			}
+			/**
 			for (int i = 0; i < Global.nScene; i++) {
 				s[i] = reader.readLine();
-				Log.d("Print String",s[i]);
 				if(s[i].length()>4) {
 					lvlCount=lvlCount+1;
 				}
 			}
+			 **/
 
 			if(lvlCount < Global.nScene)
 			{
@@ -290,9 +321,9 @@ public class SelectLevelScene extends BaseScene implements
 			BufferedWriter writer = new BufferedWriter(filewriter);
 			for(int i=0;i<Global.nScene-lvlCount;i++)
 			{
-				writer.newLine();
 				String s = String.valueOf(i+1+lvlCount) + "," + "0" + "," + "0";
 				writer.write(s);
+				writer.newLine();
 			}
 			writer.close();
 		} catch (FileNotFoundException e) {

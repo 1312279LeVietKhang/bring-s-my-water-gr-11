@@ -62,6 +62,38 @@ public class ResourcesManager {
 	/** The level04 resource. */
 	public Level04Resource _level04Resource;
 
+	/** The level05 resource. */
+	public Level05Resource _level05Resource;
+
+	/** The level06 resource. */
+	public Level06Resource _level06Resource;
+
+	/** The level07 resource. */
+	public Level07Resource _level07Resource;
+	/** The level08 resource. */
+	public Level08Resource _level08Resource;
+
+	/** The level09 resource. */
+	public Level09Resource _level09Resource;
+
+	/** The level10 resource. */
+	public Level10Resource _level10Resource;
+
+	/** The level11 resource. */
+	public Level11Resource _level11Resource;
+
+	/** The level12 resource. */
+	public Level12Resource _level12Resource;
+
+	/** The level13 resource. */
+	public Level13Resource _level13Resource;
+
+	/** The level14 resource. */
+	public Level14Resource _level14Resource;
+
+	/** The level15 resource. */
+	public Level15Resource _level15Resource;
+
 
 	/** The select level resource. */
 	public SelectLevelSceneResource _selectLevelResource;
@@ -184,10 +216,169 @@ public class ResourcesManager {
 			_level04Resource = null;
 		}
 	}
+	/** Load level4 resource**/
 	public final void loadLevel04Screen() {
 		_level04Resource = new Level04Resource();
 		_level04Resource.load();
 	}
+	/**
+	 * Unload level05 screen.
+	 */
+	public final void unloadLevel05Screen() {
+		if (_level05Resource != null) {
+			_level05Resource.unload();
+			_level05Resource = null;
+		}
+	}
+	/** Load level5 resource**/
+	public final void loadLevel05Screen() {
+		_level05Resource = new Level05Resource();
+		_level05Resource.load();
+	}
+	/**
+	 * Unload level06 screen.
+	 */
+	public final void unloadLevel06Screen() {
+		if (_level06Resource != null) {
+			_level06Resource.unload();
+			_level06Resource = null;
+		}
+	}
+	/** Load level6 resource**/
+	public final void loadLevel06Screen() {
+		_level06Resource = new Level06Resource();
+		_level06Resource.load();
+	}
+	/**
+	 * Unload level07 screen.
+	 */
+	public final void unloadLevel07Screen() {
+		if (_level07Resource != null) {
+			_level07Resource.unload();
+			_level07Resource = null;
+		}
+	}
+	/** Load level7 resource**/
+	public final void loadLevel07Screen() {
+		_level07Resource = new Level07Resource();
+		_level07Resource.load();
+	}
+	/**
+	 * Unload level08 screen.
+	 */
+	public final void unloadLevel08Screen() {
+		if (_level08Resource != null) {
+			_level08Resource.unload();
+			_level08Resource = null;
+		}
+	}
+	/** Load level8 resource**/
+	public final void loadLevel08Screen() {
+		_level08Resource = new Level08Resource();
+		_level08Resource.load();
+	}
+
+	/**
+	 * Unload level09 screen.
+	 */
+	public final void unloadLevel09Screen() {
+		if (_level09Resource != null) {
+			_level09Resource.unload();
+			_level09Resource = null;
+		}
+	}
+	/** Load level9 resource**/
+	public final void loadLevel09Screen() {
+		_level09Resource = new Level09Resource();
+		_level09Resource.load();
+	}
+	/**
+	 * Unload level10 screen.
+	 */
+	public final void unloadLevel10Screen() {
+		if (_level10Resource != null) {
+			_level10Resource.unload();
+			_level10Resource = null;
+		}
+	}
+	/** Load level10 resource**/
+	public final void loadLevel10Screen() {
+		_level10Resource = new Level10Resource();
+		_level10Resource.load();
+	}
+	/**
+	 * Unload level11 screen.
+	 */
+	public final void unloadLevel11Screen() {
+		if (_level11Resource != null) {
+			_level11Resource.unload();
+			_level11Resource = null;
+		}
+	}
+	/** Load level11 resource**/
+	public final void loadLevel11Screen() {
+		_level11Resource = new Level11Resource();
+		_level11Resource.load();
+	}
+	/**
+	 * Unload level12 screen.
+	 */
+	public final void unloadLevel12Screen() {
+		if (_level12Resource != null) {
+			_level12Resource.unload();
+			_level12Resource = null;
+		}
+	}
+	/** Load level12 resource**/
+	public final void loadLevel12Screen() {
+		_level12Resource = new Level12Resource();
+		_level12Resource.load();
+	}
+	/**
+	 * Unload level13 screen.
+	 */
+	public final void unloadLevel13Screen() {
+		if (_level13Resource != null) {
+			_level13Resource.unload();
+			_level13Resource = null;
+		}
+	}
+	/** Load level13 resource**/
+	public final void loadLevel13Screen() {
+		_level13Resource = new Level13Resource();
+		_level13Resource.load();
+	}
+	/**
+	 * Unload level014 screen.
+	 */
+	public final void unloadLevel14Screen() {
+		if (_level14Resource != null) {
+			_level14Resource.unload();
+			_level14Resource = null;
+		}
+	}
+	/** Load level14 resource**/
+	public final void loadLevel14Screen() {
+		_level14Resource = new Level14Resource();
+		_level14Resource.load();
+	}
+
+	/**
+	 * Unload level015 screen.
+	 */
+	public final void unloadLevel15Screen() {
+		if (_level15Resource != null) {
+			_level15Resource.unload();
+			_level15Resource = null;
+		}
+	}
+	/** Load level15 resource**/
+	public final void loadLevel15Screen() {
+		_level15Resource = new Level15Resource();
+		_level15Resource.load();
+	}
+
+
 
 
 

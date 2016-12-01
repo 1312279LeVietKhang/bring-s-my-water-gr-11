@@ -33,7 +33,8 @@ import com.group14.wheresmywater.SceneManager.SceneType;
  */
 public class Level02 extends BaseScene implements IOnSceneTouchListener,
 		IOnMenuItemClickListener {
-
+	/** ID **/
+	private int ID = 2;
 	/** The resource. */
 	private Level02Resource _resource;
 
@@ -670,7 +671,7 @@ public class Level02 extends BaseScene implements IOnSceneTouchListener,
 			// TODO Auto-generated method stub
 			try {
 				Global.TimePlayGame = System.currentTimeMillis() - timeStart;
-				Global.IDScene = 2;
+				Global.IDScene = ID;
 				Global.nDuckyHaveWater = nDuckyHaveWater;
 				_resource.soundGameWin.play();
 				_resource.soundCrankyLaugh.play();

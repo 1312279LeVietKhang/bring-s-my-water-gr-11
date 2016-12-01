@@ -27,6 +27,7 @@ import org.andengine.util.HorizontalAlign;
 import org.andengine.util.color.Color;
 
 import android.os.Environment;
+import android.util.Log;
 
 import com.group14.wheresmywater.SceneManager.SceneType;
 
@@ -90,6 +91,7 @@ public class ScoreScene extends BaseScene implements IOnMenuItemClickListener {
 				String str = reader.readLine();
 				if (str != null) {
 					s[i] = str;
+					Log.i("Read Save String",s[i]);
 				}
 			}
 			reader.close();
@@ -99,6 +101,7 @@ public class ScoreScene extends BaseScene implements IOnMenuItemClickListener {
 			e.printStackTrace();
 		}
 
+		Log.i("Global ID",String.valueOf(Global.IDScene));
 		if (Integer.parseInt(s[Global.IDScene - 1].split(",")[2]) < Global.nDuckyHaveWater)
 			s[Global.IDScene - 1] = String.valueOf(Global.IDScene) + "," + "1"
 					+ "," + String.valueOf(Global.nDuckyHaveWater);

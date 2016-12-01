@@ -158,4 +158,23 @@
             x="0"
             y="947" />
 	</Body>
+    <Body>
+        <Vertex
+            x ="112"
+            y="880"
+            />
+
+        <Vertex
+            x ="150"
+            y="960"
+            />
+        <Vertex
+            x ="283"
+            y="960"
+            />
+        <Vertex
+            x ="311"
+            y="880"
+            />
+    </Body>
 </Bodies>

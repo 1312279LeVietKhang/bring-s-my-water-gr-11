@@ -50,57 +50,24 @@
         <Vertex
             x="457"
             y="990" />
-			
+
 		<Vertex
             x="480"
             y="1070" />
-		
+
 		<Vertex
             x="722"
             y="1095" />
-		
+
 		<Vertex
             x="734"
             y="1107" />
-		
+
 		<Vertex
             x="735"
             y="1190" />
 
     </Body>
-	
-	<Body>
-		
-		<Vertex
-            x="60"
-            y="948" />
-			
-		<Vertex
-            x="70"
-            y="1043" />
-			
-		<Vertex
-            x="91"
-            y="1103" />
-			
-		<Vertex
-            x="123"
-            y="1119" />
-			
-		<Vertex
-            x="242"
-            y="1114" />
-			
-		<Vertex
-            x="260"
-            y="1093" />
-			
-		<Vertex
-            x="285"
-            y="1042" />
-			
-	</Body>
-
     <Body>
 
         <Vertex
@@ -141,34 +108,34 @@
 		<Vertex
             x="302"
             y="285" />
-		
+
 		<Vertex
             x="286"
             y="290" />
 		<Vertex
             x="281"
             y="690" />
-			
+
 			<Vertex
             x="295"
             y="703" />
-			
+
 			<Vertex
             x="603"
             y="705" />
-			
+
 			<Vertex
             x="616"
             y="692" />
-			
+
 			<Vertex
             x="619"
             y="652" />
-			
+
 			<Vertex
             x="742"
             y="646" />
-			
+
 			<Vertex
             x="752"
             y="633" />
@@ -176,10 +143,36 @@
 			<Vertex
             x="758"
             y="604" />
-			
+
 			<Vertex
             x="800"
             y="600" />
-			
+
+    </Body>
+    <Body>
+        <Vertex
+            x="74"
+            y="1035"
+            />
+
+        <Vertex
+            x="105"
+            y="1100"
+            />
+
+        <Vertex
+            x="173"
+            y="1110"
+            />
+
+        <Vertex
+            x="240"
+            y="1100"
+            />
+
+        <Vertex
+            x="271"
+            y="1035"
+            />
     </Body>
 </Bodies>
